@@ -1,7 +1,7 @@
 ## Hi 👋, I am Phạm Thành Lam  
 
 ### 🚀 About Me  
-- 🎓 I’m a **Front-end Fresher** studying at **University of Information Technology - VNU HCM**, specializing in **Information Science and Engineering**.  
+- 🎓 I’m a **Student** studying at **University of Information Technology - VNU HCM**, specializing in **Web Developer**.  
 - 💻 Previously worked as a **Full-stack Developer Intern** at **BlueSkyTech**.  
 - 🔥 Passionate about building **scalable web applications** and improving **user experience**.
 - 🤖 Currently exploring **Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)** to integrate smart solutions into web applications.    

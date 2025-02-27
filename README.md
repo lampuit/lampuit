@@ -1,4 +1,6 @@
-<div align="center"> ## Hi 👋, I am Phạm Thành Lam  </div>
+<div align="center"> 
+## Hi 👋, I am Phạm Thành Lam  
+</div>
 
 ### 🚀 About Me  
 - 🎓 I’m a **Student** studying at **University of Information Technology - VNU HCM**, specializing in **Web Developer**.  

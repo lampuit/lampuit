@@ -50,12 +50,6 @@
 
 ---
 
-### 📖 Currently Learning 
-- Advanced **Next.js & Server-side Rendering (SSR)**  
-- Deepening knowledge in **Software Architecture (Onion Architecture, Microservices)**  
-- Improving **performance optimization** in web applications
-- Exploring **Large Language Models (LLMs)** to integrate **chatbots** into web applications  
-
 ### 📫 Contact me  
 - **GitHub:** [lampuit](https://github.com/lampuit)  
 - **LinkedIn:** [pham-lam-060909256](https://www.linkedin.com/in/pham-lam-060909256)  

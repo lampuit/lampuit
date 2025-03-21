@@ -48,7 +48,7 @@
 
 ### 📫 Contact me  
 - **GitHub:** [lampuit](https://github.com/lampuit)  
-- **LinkedIn:** [pham-lam-060909256](https://www.linkedin.com/in/pham-lam-060909256)  
+- **LinkedIn:** [pham-lam-060909256](https://www.linkedin.com/in/ph%E1%BA%A1m-lam-060909256/)  
 - **Email:** lampham.110304@gmail.com  
 
 ⚡ **Fun Fact:** I love coding, exploring new technologies, and solving challenging problems! 🚀  
